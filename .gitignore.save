@@ -1,0 +1,7 @@
+
+git add .gitignore
+git commit -m "Add .gitignore to exclude temporary and database files"
+git push
+
+.ipynb_checkpoints/
+anaconda_projects/db/
