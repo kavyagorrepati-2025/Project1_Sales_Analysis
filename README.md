@@ -86,6 +86,11 @@ This project is a comprehensive **Sales Analysis** using the Global Superstore d
 
 ## Author
 Kavya Gorrepati
+
+Data Analyst Enthusiast | Skilled in Python [pandas(data manipulation)
+ numpy(numerical analysis) matplotlib, seaborn, plotly(data visualization)], SQL, Power BI, Snowflake, Microsoft Azure  and Data Storytelling
+
+
 GitHub: kavyagorrepati-2025
 
 Email: kavyagk2025@gmail.com
